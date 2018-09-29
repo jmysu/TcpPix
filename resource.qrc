@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Trump.gif</file>
+    </qresource>
+</RCC>
