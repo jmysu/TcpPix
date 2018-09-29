@@ -3,3 +3,5 @@
 
 土豆一號 需要一個 Pixmap localhost 的TCP client/server!
 網路上找不到 自己土炮一個！
+
+![screen shot](./TcpPix0929.png)
